@@ -1,4 +1,3 @@
-
 <a name="readme-top"></a>
 # README.md
 
@@ -7,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AchroDev/REPO_NAME">
-    <img src ="resources/LOGO" alt="Logo" width="200" height="200">
+  <a href="https://github.com/AchroDev/cpp_project_script">
+    <img src ="resources/c++.svg" alt="Logo" width="200" height="200">
   </a>
 <h3 align="center"> Project Name ~ AchroDev </h3>
 
@@ -23,7 +22,7 @@
 ## About The Project
 <a href='https://ko-fi.com/R6R3WKVOY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
-
+This is a repo for storing and displaying my C++ Project Structure/Script. Feel free to fork and customize.
 
 #
 
@@ -33,7 +32,8 @@
 #
 
 ## Instructions
-> No instructions for this project.
+> If you wish to fork, please add acknowledgements to me :).
+> THAT IS ALL! ~
 
 
 <!-- ACKNOWLEDGEMENTS -->
