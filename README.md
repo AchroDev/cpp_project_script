@@ -39,11 +39,11 @@ This is a repo for storing and displaying my C++ Project Structure/Script. Feel 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [README template][readme-template]
+* [Me!][my-github]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
 [license-url]: https://github.com/AchroDev/echto/blob/main/LICENSE.txt
-[Me!]: https://github.com/AchroDev
+[my-github]: https://github.com/AchroDev
 [Acknowledgements]: https://github.com/AchroDev/echto?tab=readme-ov-file#acknowledgements
