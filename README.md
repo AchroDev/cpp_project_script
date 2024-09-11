@@ -9,10 +9,10 @@
   <a href="https://github.com/AchroDev/cpp_project_script">
     <img src ="resources/c++.svg" alt="Logo" width="200" height="200">
   </a>
-<h3 align="center"> Project Name ~ AchroDev </h3>
+<h3 align="center"> C++ Project Structure Script ~ AchroDev </h3>
 
   <p align="center">
-    Project Description.
+    This script builds a standard C++ project structure ready for VCS with github.
     <br />
   </p>
 </div>
@@ -32,7 +32,8 @@ This is a repo for storing and displaying my C++ Project Structure/Script. Feel 
 #
 
 ## Instructions
-> If you wish to fork, please add acknowledgements to me :).
+> If you wish to fork, please add acknowledgements to me :bowtie:.
+
 > THAT IS ALL! ~
 
 
