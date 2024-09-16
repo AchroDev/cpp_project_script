@@ -1,8 +1,7 @@
 #!/bin/sh
 
-mkdir headers
+mkdir debug
 mkdir resources
-mkdir src
 touch LICENSE.txt
 echo "MIT License
 
@@ -58,7 +57,24 @@ echo "# Prerequisites
 # Executables
 *.exe
 *.out
-*.app" >> .gitignore
+*.app
+
+# Git
+.gitignore
+
+# C/Makefile
+*.clangd
+*.clang-format
+*.mk
+
+# Workspace
+*.project
+*.workspace
+
+# Directories
+.cache/
+.ctagsd/
+.codelite/" >> .gitignore
 touch README.md
 echo "<a name=\"readme-top\"></a>
 # README.md
@@ -99,20 +115,21 @@ echo "<a name=\"readme-top\"></a>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [README template][readme-template]
+* [Ack1][ack1-link]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
 [license-url]: https://github.com/AchroDev/echto/blob/main/LICENSE.txt
-[readme-template]: https://github.com/othneildrew/Best-README-Template
+[ack1-link]:
 [Acknowledgements]: https://github.com/AchroDev/echto?tab=readme-ov-file#acknowledgements" >> README.md
-cd src/
 touch main.cpp
 echo "#include <iostream>
 
+#define LOG(x) std::cout << x << std::endl;
+
 int main(){
-    std::cout << \"Hello World\" << std::endl;
+    LOG(\"Hello World!\");
     std::cin.get();
 }" >> main.cpp
 exit

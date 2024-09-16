@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
+=======
+
+# Git
+.gitignore
+
+# C/Makefile
+*.clangd
+*.clang-format
+*.mk
+
+# Workspace
+*.project
+*.workspace
+
+# Directories
+.cache/
+.ctagsd/
+.codelite/
+>>>>>>> 6284d6f (Updated script)
