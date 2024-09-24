@@ -1,7 +1,11 @@
 #!/bin/sh
 
+# Get the directory name to use later
+dir_name=$(basename "$PWD")
+
 mkdir debug
 mkdir resources
+cp ../c++.svg ./resources
 touch LICENSE.txt
 echo "MIT License
 
@@ -100,7 +104,7 @@ echo "<a name=\"readme-top\"></a>
 <!-- PROJECT LOGO -->
 <br />
 <div align=\"center\">
-  <a href=\"https://github.com/AchroDev/REPO_NAME\">
+  <a href=\"https://github.com/AchroDev/$dir_name\">
     <img src =\"resources/c++.svg\" alt=\"Logo\" width=\"150\" height=\"150\">
   </a>
 <h3 align=\"center\"> Project Name ~ AchroDev </h3>
