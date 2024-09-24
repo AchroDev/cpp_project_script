@@ -30,8 +30,6 @@
 *.exe
 *.out
 *.app
-<<<<<<< HEAD
-=======
 
 # Git
 .gitignore
@@ -49,4 +47,3 @@
 .cache/
 .ctagsd/
 .codelite/
->>>>>>> 6284d6f (Updated script)
