@@ -101,7 +101,7 @@ echo "<a name=\"readme-top\"></a>
 <br />
 <div align=\"center\">
   <a href=\"https://github.com/AchroDev/REPO_NAME\">
-    <img src =\"resources/c++.svg\" alt=\"Logo\" width=\"200\" height=\"200\">
+    <img src =\"resources/c++.svg\" alt=\"Logo\" width=\"150\" height=\"150\">
   </a>
 <h3 align=\"center\"> Project Name ~ AchroDev </h3>
 
